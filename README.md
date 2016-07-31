@@ -25,3 +25,7 @@ Thats it.
 To show that this small tool is a turtle it is housed in a "turtle".
 I used this one here from Wikimedia:
 ![Iimage of Turtle] (https://upload.wikimedia.org/wikipedia/commons/7/70/Kturtle_top_view.svg)
+
+See the "making-of" and the final solution on my Blog (in German):
+http://jogiblog.kuenstner.de/?p=66
+
