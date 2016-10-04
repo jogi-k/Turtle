@@ -20,6 +20,11 @@ then back right to the original position is done.
 This is just to show that Teensy now can act as a Mouse.
 After that it only makes invisible 1-pixel-movements every 10 seconds.
 Thats it.
+For the teensy to work properly with the turtle-software, the Arduino-IDE has to be set to:
+- Teensy
+- USB-Type : Keyboard + Mouse + Joystick
+
+
 
 ### Housing 
 To show that this small tool is a turtle it is housed in a "turtle".
