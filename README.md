@@ -19,10 +19,12 @@ When connected to USB ( Teensy is started) after a delay of 7 seconds a movement
 then back right to the original position is done.
 This is just to show that Teensy now can act as a Mouse.
 After that it only makes invisible 1-pixel-movements every 10 seconds.
-Thats it.
+Thats it.  
 For the teensy to work properly with the turtle-software, the Arduino-IDE has to be set to:
 - Teensy
 - USB-Type : Keyboard + Mouse + Joystick
+
+See ![Arduino Settings](Arduino_Settings.png)
 
 
 
