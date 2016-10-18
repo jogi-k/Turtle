@@ -1,5 +1,8 @@
 # Turtle
 A very very slow Mouse-Emulation ( a Turtle) to prevent Displays from switching off (e.g. presentations)
+Final version in housing:
+
+![Turtle in housing](Turtle_Final_sm-300x225.jpg)
 
 ## Intention
 This is intended to be used when doing a presentation or when having a presenter (german: a beamer) connected to a Laptop 
